@@ -1,4 +1,5 @@
 # SOFE2720-group-2-YeezyBooks
+<<<<<<< HEAD
 # YeezyBooks™ is an Online Library Booking tool developed during the pandemic for contactless book borrowing.
 # Our system allows users to create an account and sign out a maximum of five books, with two copies of the same book
 
@@ -26,3 +27,7 @@
 # 4) Design Folder (contains class component models, behavioural models, review report of design elements)
 # 5) Code Folder (Contains relevant code)
 # 6) Test Case Folder (Contains all unit and integration tests and Acceptance tests)
+=======
+# YeezyBooks™ is an Online Library Booking tool developed during the pandemic for contactless bokk borrowing.
+# Our system allows users to create an account and sign out a maximum of five books, with only two of each specific ISBN
+>>>>>>> 0f2bc5b2695c9d376d1bf39a5c78763bcfb83bcd
