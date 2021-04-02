@@ -11,18 +11,18 @@
 #Target Markets:
 #The targeted audience for this online library system is mainly for people, who are unable to go to a library due to the pandemic or because of their circumstances. Moreover, this website is directed towards people of all age groups who either love reading or need a book for a project, work, etc. The goal of this website is to make borrowing books easy and enjoyable even when you are at home. The navigation options make borrowing and returning books an adequate experience 
 
-# Major Features:
-# - Login and registering system
-# - Add books to the user's account that has been borrowed
-# - Remove books from their account
-# - Extend the date of borrowing a book upon renewal
-# - Tracks the due date of returning the book and updates the user
+#Major Features:
+#- Login and registering system
+#- Add books to the user's account that has been borrowed
+#- Remove books from their account
+#- Extend the date of borrowing a book upon renewal
+#- Tracks the due date of returning the book and updates the user
 
 
-# Table of contents:
-# 1) Main Folder (contains traceability matrix)
-# 2) Requirements Folder (contains tabular list of requirements and a review report of the requirements)
-# 3) Use Case Folder(contains all relevant use cases)
-# 4) Design Folder (contains class component models, behavioural models, review report of design elements)
-# 5) Code Folder (Contains relevant code)
-# 6) Test Case Folder (Contains all unit and integration tests and Acceptance tests)
+#Table of contents:
+#1) Main Folder (contains traceability matrix)
+#2) Requirements Folder (contains tabular list of requirements and a review report of the requirements)
+#3) Use Case Folder(contains all relevant use cases)
+#4) Design Folder (contains class component models, behavioural models, review report of design elements)
+#5) Code Folder (Contains relevant code)
+#6) Test Case Folder (Contains all unit and integration tests and Acceptance tests)
